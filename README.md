@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **hey@dotconde.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dotconde&show_icons=true&locale=en&layout=compact&theme=vue" alt="dotconde" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotconde&show_icons=true&locale=en&theme=vue&count_private=true" alt="dotconde" /></p>
 
 
