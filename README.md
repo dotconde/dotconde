@@ -1,8 +1,8 @@
 <h1 align="center">Aloha! 👋</h1>
 
-- 💬 Ask me about **react, rails, product or startups**
+- 💬 Ask me about **startups, team building, react, rails and digital products**
 
-- 📫 How to reach me **hey@dotconde.com**
+- 📫 Reach out to me at **hey@dotconde.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotconde&show_icons=true&locale=en&theme=vue&count_private=true" alt="dotconde" /></p>
 
