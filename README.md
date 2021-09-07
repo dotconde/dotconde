@@ -2,7 +2,7 @@
 
 - 💬 Ask me about **startups, team building, react, rails and digital products**
 
-- 📫 Reach out to me at **deyvi@disoft.io**
+- 📫 Reach out to me at **deyvi@tramy.io**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dotconde&show_icons=true&locale=en&theme=vue&count_private=true" alt="dotconde" /></p>
 
